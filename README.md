@@ -3,7 +3,7 @@ Wario Land 2/3 (GB/GBC) to MIDI converter
 
 This tool converts music from Game Boy and Game Boy Color games using Kozue Ishikawa's sound engine to MIDI format, which is used in Wario Land 2 and 3 and other first-party titles including Tetris DX.
 
-It works with ROM images. To use it, you must specify the name of the ROM followed by the number of the bank containing the sound data (in hex).
+It works with ROM images. To use it, you must specify the name of the ROM followed by the number of the main bank containing the sound data (in hex).
 
 Examples:
 * WL22MID "Wario Land II (U) [C][!].gbc" 19
